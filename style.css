@@ -1,0 +1,59 @@
+h1{font-style:unset;
+  font-size:5em;
+  color: white;
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
+
+h4, h2{
+  font-style:normal;
+  font-size:larger;
+  color: white;
+  text-align: center;
+}
+
+h5{
+  font-style:normal;
+  font-size:larger;
+  color: white;
+  display:flex;
+  align-self: auto;
+  text-align: justify;
+}
+
+
+/*
+=============== 
+container
+===============
+*/
+
+.container{
+  border:5px black;
+  background-image: url("photos/1.jpg");
+  background-size:cover;
+  display: relative;
+  margin: auto;
+  margin-right:auto;
+  padding:2px;
+}
+
+
+.hero-container{
+  margin: auto;
+  background:rgba(180, 5, 5, 0.4);
+  padding: 2px;
+  
+}
+
+#main-text{
+  color:white;
+}
+
+p, h3{
+  text-align: center;
+}
+
+
+
